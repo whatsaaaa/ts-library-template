@@ -117,3 +117,6 @@ dist
 
 # IDE
 .idea
+
+# Temp folders
+temp
